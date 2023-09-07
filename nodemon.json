@@ -1,0 +1,8 @@
+{     
+    "env":{         
+        "DB_USER":"shan",
+        "DB_PASSWORD":"12345",
+        "DB_NAME":"test",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
